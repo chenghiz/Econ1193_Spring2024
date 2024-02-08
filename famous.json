@@ -297,4 +297,22 @@
         "band name": "The Beatles",
         "members": "Paul, John, George"
     }
-}
+   
+},
+    "Ecco2k": {
+        "full name": "Zak Arogundade Gaterud",
+        "wikipedia": "https://en.wikipedia.org/wiki/Ecco2K",
+        "born": 1995,
+        "singer": true,
+        "producer": true,
+        "songs": [
+            "Peroxide",
+            "Western Union",
+            "Girls Just Want To Have Fun",
+            "Amygdyla"
+        ],
+        
+    
+    
+    
+    
