@@ -297,4 +297,31 @@
         "band name": "The Beatles",
         "members": "Paul, John, George"
     }
+},
+{
+  "existingKey1": "existingValue1",
+  "existingKey2": {
+    "nestedKey1": "nestedValue1",
+    "nestedKey2": 42,
+    "nestedKey3": true,
+    "nestedKey4": ["item1", "item2"],
+    "nestedKey5": {
+      "subKey1": "subValue1",
+      "subKey2": 3.14
+    },
+    "nestedKey6": null
+  },
+  "existingKey3": 123,
+  "newFamousPerson": {
+    "name": "Barry Sander",
+    "birthDate": "January 1, 1980",
+    "occupation": "Actor",
+    "isAlive": true,
+    "achievements": ["Award Winner", "Best Actor"],
+    "education": {
+      "degree": "Bachelor's in Performing Arts",
+      "school": "Famous Acting School"
+    }
+  }
 }
+
